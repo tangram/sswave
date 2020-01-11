@@ -9,7 +9,7 @@ Most commands will require you to refer to a .jic file. Download the latest firm
 
 **This project is incomplete – it doesn't actually enable import of wavetables yet.** I lost interest at some point, no longer own a Shapeshifter and cannot verify working import. The project is made available so others may use the export functions or develop it further.
 
-Work on this project started in a [Jupyter notebook](https://github.com/tangram/sswave/blob/master/Shapeshifter%20avetable%20workbook.ipynb), which is supplied.
+Work on this project started in a [Jupyter notebook](https://github.com/tangram/sswave/blob/master/Shapeshifter%20wavetable%20workbook.ipynb), which is supplied.
 
 
 Local development setup
