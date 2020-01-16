@@ -1,5 +1,5 @@
 sswave
-------------
+======
 
 *Wavetable processing tools for the Intellijel/Cylonix Shapeshifter Eurorack module*
 
@@ -15,7 +15,7 @@ Work on this project started in a [Jupyter notebook](https://github.com/tangram/
 
 
 Setup and usage
-===============
+---------------
 
 Python 3.6 or higher is required.
 
@@ -34,7 +34,8 @@ Example for listing wavetables:
 
 Further usage instructions can be found using the `--help` switch with each command.
 
+
 License
-=======
+-------
 
 Copyright © 2020 Eirik Krogstad, MIT License – see [LICENSE](https://github.com/tangram/sswave/blob/master/LICENSE) for details.
